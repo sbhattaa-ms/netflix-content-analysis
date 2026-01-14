@@ -23,6 +23,6 @@ Netflix Movies and TV Shows dataset from Kaggle
 3. **Top Producing Countries**: USA, India, UK lead in content production.
 
 ##Conclusion
+Netflix has aggressively expanded its content library, with a strong focus on movies. The USA remains the dominant content producer, but other countries like India are rapidly increasing their contributions. This analysis provides a foundation for further exploration into genre trends, viewer preferences, and regional content strategies.
 ## License
 This project is licensed under the MIT License.
-Netflix has aggressively expanded its content library, with a strong focus on movies. The USA remains the dominant content producer, but other countries like India are rapidly increasing their contributions. This analysis provides a foundation for further exploration into genre trends, viewer preferences, and regional content strategies.
